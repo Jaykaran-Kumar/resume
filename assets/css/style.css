@@ -330,6 +330,9 @@ section {
   padding-right: 2px;
   color: #149ddd;
 }
+.img-fluid{
+  border-radius:50%;
+}
 
 .about .content p:last-child {
   margin-bottom: 0;
