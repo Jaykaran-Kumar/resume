@@ -322,7 +322,7 @@ section {
 }
 .img-fluid{
   border-radius:50%;
-  background-color:rgba(125,125,125,0.2);
+  background-color:rgba(125,125,125,0.5);
 }
 
 .about .content ul li {
