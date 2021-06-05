@@ -320,6 +320,9 @@ section {
   list-style: none;
   padding: 0;
 }
+.img-fluid{
+  border-radius:50%;
+}
 
 .about .content ul li {
   padding-bottom: 10px;
